@@ -1,2 +1,4 @@
 \contentsline {chapter}{\numberline {1}Các điều kiện cân bằng}{2}% 
 \contentsline {section}{\numberline {1.1}Cân bằng nhiệt}{2}% 
+\contentsline {chapter}{\numberline {2}Các hàm nhiệt động}{4}% 
+\contentsline {section}{\numberline {2.1}Năng lượng tự do Helmholtz $ F $}{4}% 

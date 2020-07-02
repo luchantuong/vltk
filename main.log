@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.6.15)  2 JUL 2020 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2020.6.15)  2 JUL 2020 23:06
 entering extended mode
 **./main.tex
 (main.tex
@@ -417,32 +417,37 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 Ch\uhorn \ohorn ng 1.
 (noidung/2.1.tex [2
 
-])) [3] (main.aux) ) 
+])) (noidung/chuong03.tex [3]
+Ch\uhorn \ohorn ng 2.
+(noidung/3.3.tex)) [4
+
+] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3360 strings out of 492453
- 42887 string characters out of 3120543
- 103616 words of memory out of 3000000
- 7655 multiletter control sequences out of 15000+200000
- 19748 words of font info for 50 fonts, out of 3000000 for 9000
+ 3379 strings out of 492453
+ 43210 string characters out of 3120543
+ 103646 words of memory out of 3000000
+ 7666 multiletter control sequences out of 15000+200000
+ 21293 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,11n,30p,571b,193s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/User/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/User/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Use
-r/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
-/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmsy7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/vntex/vnr/vnbx10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/t
-ype1/vntex/vnr/vnbx12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/vntex/vnr/vnr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/vntex/vnr/vnr12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on main.pdf (4 pages, 129071 bytes).
+<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/User/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/User/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/User/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Use
+rs/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.p
+fb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmsy10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/vntex/vnr/vnbx10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/vntex/vnr/vnbx12.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/User/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/vntex/vnr/vnr17.pfb>
+Output written on main.pdf (5 pages, 143184 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
