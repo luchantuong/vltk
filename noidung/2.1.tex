@@ -1,0 +1,32 @@
+\section{Cân bằng nhiệt}
+	Ta tưởng tượng là vách ngăn cho nhiệt truyền qua, không dịch chuyển và không thấm (tức không cho các hạt qua lại). Biến số duy nhất của entropy chỉ là nội năng.
+	
+	Từ tính cộng được của entropy ta có
+	\begin{equation*}
+		\sigma = \sigma_1 + \sigma_2
+	\end{equation*}
+	Giả thiết rằng hệ con 1 và hệ con 2 nằm cân bằng với nhau, tức hệ kín ở cân bằng. Khi đó $ \sigma $ đạt cực đại. Điều kiện để $ \sigma $ đạt cực đại là $ \dd{\sigma} = 0 $.
+	\begin{align}
+		\dd{\sigma} & = \dd{\sigma_1} + \dd{\sigma_2} = 0 \notag \\
+		\dd{\sigma} & = \left(\dfrac{\partial \sigma_1}{\partial U_1}\right) \dd{U_1} + \left(\dfrac{\partial \sigma_2}{\partial U_2}\right) \dd{U_2} = 0
+	\end{align}
+	Vì nội năng của hệ kín là hằng số, nên
+	\begin{equation*}
+		\dd{U} = \dd{U_1} + \dd{U_2} = 0
+	\end{equation*}
+	Do đó
+	\begin{equation*}
+		\dd{\sigma} = \left[\left(\dfrac{\partial \sigma_1}{\partial U_1}\right) - \left(\dfrac{\partial \sigma_2}{\partial U_2}\right)\right] \dd{U_1} = 0
+	\end{equation*}
+	Vì biến thiên $ dU_1 $ có thể tùy ý, nên
+	\begin{equation}\label{eq:2.3}
+		\dfrac{\partial \sigma_1}{\partial U_1} = \dfrac{\partial \sigma_2}{\partial U_2}
+	\end{equation}
+	Ta dẫn ra đại lượng $ \theta $ theo định nghĩa
+	\begin{equation}\label{eq:2.4}
+		\dfrac{1}{\theta} = \left(\dfrac{\partial \sigma}{\partial U}\right)_{V, N}
+	\end{equation}
+	Điều kiện \eqref{eq:2.3} trở thành
+	\begin{equation}\label{eq:2.5}
+		\theta_1 = \theta_2
+	\end{equation}
