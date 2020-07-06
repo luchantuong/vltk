@@ -2,4 +2,5 @@
 \contentsline {section}{\numberline {1.1}Cân bằng nhiệt}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}Cân bằng cơ}{3}{section.1.2}%
 \contentsline {chapter}{\numberline {2}Các hàm nhiệt động}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Năng lượng tự do Helmholtz $ F $}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.1}Enthalpy $ W $}{5}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Năng lượng tự do Helmholtz $ F $}{5}{section.2.2}%
