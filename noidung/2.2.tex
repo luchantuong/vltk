@@ -7,3 +7,46 @@
 	\begin{equation*}
 		\left(\dfrac{\partial \sigma_1}{\partial V_1}\right) \dd{V_1} + \left(\dfrac{\partial \sigma_2}{\partial V_2}\right) \dd{V_2} = 0
 	\end{equation*}
+	$ V_1 $ và $ V_2 $ là thể tích của hệ con 1 và 2. Vì thể tích của hệ kín không đổi nên
+	\begin{align*}
+		\dd{V} = \dd{V_1} + \dd{V_2} = 0 \text{ hay } \dd{V_2} = -\dd{V_1}
+	\end{align*}
+	Do đó
+	\begin{align*}
+		\left[\left(\dfrac{\partial \sigma_1}{\partial V_1}\right) - \left(\dfrac{\partial \sigma_2}{\partial V_2}\right)\right] \dd{V_1} = 0
+	\end{align*}
+	Vì biến thiên $ \dd{V_1} $ có thể tùy ý, nên ta được
+	\begin{equation}\label{eq:2.7}
+		\dfrac{\partial \sigma_1}{\partial V_1} = \dfrac{\partial \sigma_2}{\partial V_2}
+	\end{equation}
+	Dẫn ra đại lượng $ \Pi $ theo định nghĩa
+	\begin{equation}\label{eq:2.8}
+		\dfrac{\Pi}{\theta} = \left(\dfrac{\partial \sigma}{\partial V}\right)_{U,N}
+	\end{equation}
+	Hệ thức \eqref{eq:2.7} chuyển thành
+	\begin{align*}
+		\dfrac{\Pi_1}{\theta_1} = \dfrac{\Pi_2}{\theta_2}
+	\end{align*}
+	Do $ \theta_1 = \theta_2 $, ta có
+	\begin{equation}\label{eq:2.9}
+		\Pi_1 = \Pi_2
+	\end{equation}
+	Đại lượng $ \Pi $ được gọi là áp suất thống kê. Vậy, áp suất của những vật nằm cân bằng với nhau thì bằng nhau (cân bằng cơ). Để thấy rõ $ \Pi $ có ý nghĩa áp suất ta hãy xét chất khí lý tưởng. Sau này ta sẽ thấy, entropy của một khối khí lý tưởng gồm $ N $ hạt chứa trong thể tích $ V $, khối lượng mỗi hạt là $ m $, bằng
+	\begin{align*}
+		\sigma = N \cdot \dfrac{3}{2} + \ln \left[\left(2\pi m \theta\right)^\frac{3}{2}V\right] - \ln\left(h^{3N}N!\right)
+	\end{align*}
+	Nếu tách phần chứa thể tích $ V $ ra, ta có:
+	\begin{align}\label{eq:2.10}
+		& \sigma = N \ln V + \ldots + \ldots \notag \\
+		& \dfrac{\partial \sigma}{\partial V} = \dfrac{N}{V} = \dfrac{\Pi}{\theta} \notag \\
+		& \Pi V = N \theta \notag \\
+		& \Pi V = N k_B T
+	\end{align}
+	Phương trình trạng thái khí lý tưởng có dạng
+	\begin{equation}\label{eq:2.11}
+		PV = N k_B T
+	\end{equation}
+	So sánh \eqref{eq:2.10} với \eqref{eq:2.11} ta thấy, $ \Pi $ không khác gì hơn là áp suất $ P $ dùng trong nhiệt động học
+	\begin{equation}\label{eq:2.12}
+		\Pi = P
+	\end{equation}
