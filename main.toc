@@ -1,6 +1,8 @@
-\contentsline {chapter}{\numberline {1}Các điều kiện cân bằng}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Cân bằng nhiệt}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Cân bằng cơ}{3}{section.1.2}%
-\contentsline {chapter}{\numberline {2}Các hàm nhiệt động}{5}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Enthalpy $ W $}{5}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Năng lượng tự do Helmholtz $ F $}{5}{section.2.2}%
+\contentsline {chapter}{\numberline {1}Những nguyên lý cơ bản của vật lý thống kê}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}phân bố vi chính tắc}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Các điều kiện cân bằng}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Cân bằng nhiệt}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Cân bằng cơ}{4}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Các hàm nhiệt động}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Enthalpy $ W $}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Năng lượng tự do Helmholtz $ F $}{6}{section.3.2}%

@@ -1,0 +1,20 @@
+\section{phân bố vi chính tắc}
+	Nhiệm vụ trung tâm của vật lý thống kê là thiết lập hàm phân bố thống kê cho các hệ vĩ mô. Thường người ta xét hai loại hệ
+	\begin{enumerate}
+		\item Hệ đoạn nhiệt: tức là hệ cô lập với năng lượng cho trước hoàn toàn xác định.
+		\item Hệ đẳng nhiệt: tức là hệ tiếp xúc với bình nhiệt (là môi trường có nhiệt dung rất lớn khi nhận nhiệt hoặc mất nhiệt, nhiệt độ hầu như không thay đổi) với nhiệt độ cho trước hoàn toàn xác định.
+	\end{enumerate}
+	Hàm phân bố cho hệ cô lập được tiên đề hóa, hàm phân bố cho các hệ đẳng nhiệt được suy diễn từ phân bố cho một hệ cô lập mà hệ đẳng nhiệt đang xét là phần nhỏ (hệ con) của nó, phần còn lại là bình nhiệt.
+	
+	Bây giờ ta xét một hệ cô lập. Do không trao đổi năng lượng với bên ngoài nên năng lượng của hệ cô lập là cố định. Nói năng lượng là cố định chỉ có nghĩa tương đối, không nhất thiết năng lượng triệt để bằng một hằng số (vì không thể có một hệ cô lập tuyệt đối). Ta sẽ coi rằng hệ cô lập là hệ có năng lượng nằm trong khoảng $ \left[E_0, E_0 + \delta E\right] $, trong đó $ E_0 = \mathrm{const} $ còn $ \delta E $ là độ bất định (rất nhỏ) nào đó. Các giá trị năng lượng khả dĩ của hệ cô lập phải thỏa mãn điều kiện
+	\begin{align}\label{eq:1.30}
+		E \in \left[E_0, E_0 + \delta E\right]
+	\end{align}
+	Hàm phân bố $ \rho(q,p) $ cho hệ cô lập được giả thiết như sau, $ \rho $ bằng hằng số (ký hiệu là $ C $) đối với tất cả những điểm trong không gian pha tương ứng với giá trị năng lượng $ E $ nằm trong khoảng $ \left[E_0, E_0 + \delta E\right] $ và bằng $ 0 $ đối với những điểm khác. Có thể viết như sau
+	\begin{align}\label{eq:1.31}
+		\rho (q,p) = \left[\begin{aligned}
+		& C & \text{ nếu } & E(q,p) \in \left[E_0, E_0 + \delta E\right]\\
+		& 0 & \text{ nếu } & E(q,p) \notin \left[E_0, E_0 + \delta E\right]
+		\end{aligned}\right.
+	\end{align}
+	Phân bố \eqref{eq:1.31} gọi là phân bố vi chính tắc. Tất nhiên ta đã giả định rằng toàn bộ hệ kín nằm trong cân bằng nhiệt động.
